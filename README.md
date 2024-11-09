@@ -1,2 +1,2 @@
 # tarefa-poo
-Trabalho para a faculdade ( cadeira de  programação orientada a objetos ) 
+Tarefa da faculdade ( cadeira de  programação orientada a objetos ) 
